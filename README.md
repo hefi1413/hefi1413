@@ -1,5 +1,5 @@
 
-### Olá , Meu nome é Elieldo Martins !  👋
+## Olá , Meu nome é Elieldo Martins !  👋
 
 <!--
 - 🔭 Estou atualmente estudando 
@@ -10,11 +10,11 @@
 - ⚡ Fun fact: ...
 -->
 
-Sou desenvolvedor back-end atualmente em transição para desenvolvimento full-stack. Tenho curso avançado em JavaScript 6.0, possuo razoável conhecimento em NodeJS, NestJS, Postgresql, MongoDB, HTML, CSS e ReactJS
+#### Sou desenvolvedor back-end, atualmente em transição para desenvolvimento full-stack. Tenho curso avançado em JavaScript 6.0, possuo razoável conhecimento em NodeJS,  NestJS, Postgresql, MongoDB, HTML, CSS e ReactJS.
 
-Utilizo frmeworks, bibliotecas e pré-processadores como Express, Nodemon, JWT, Bcrypt, Bootstrap, Tailwind, Sass e ChakraUi.
+#Utilizo frmeworks, bibliotecas e pré-processadores como Express, Swagger, Prisma, Nodemon, JWT, Bootstrap.
 
-Criei aplicativos client/server durante +10 anos utilizando linguagens, como: Delphi, VB6 , PHP e integrado a bancos de dados relacionais Oracle, SQL Server ou Postgree
+Criei aplicativos desktop durante +10 anos utilizando linguagens, como: Delphi, VB6 , PHP e integrado a bancos de dados relacionais Oracle, SQL Server ou Postgree
 
 - 👯 Estou procurando coloborar com empresas em vagas home office
 
