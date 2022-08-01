@@ -18,6 +18,10 @@ Criei aplicativos client/server durante +10 anos utilizando linguagens, como: De
 
 - 👯 Estou procurando coloborar com empresas em vagas home office
 
+<div>
+   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=hefi1413&count_private=true&show_icons=true&theme=merko" />
+   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hefi1413&layout=compact&theme=merko" />
+</div>
 
 - 📫 Como você pode me localizar:
 
