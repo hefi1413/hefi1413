@@ -43,6 +43,6 @@ Criei aplicativos desktop durante +10 anos utilizando linguagens, como: Delphi, 
 
 ###
 
-###
-![snake gif](https://github.com/hefi1413/hefi1413/blob/output/github-contribution-grid-snake.gif)
+### snake eating
 
+![Snake animation](https://github.com/hefi1413/hefi1413/blob/output/github-contribution-grid-snake.svg)
